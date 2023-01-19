@@ -1,0 +1,16 @@
+.box{
+min-height: 50px;
+background-color: rgb(123, 169, 255);
+border: 1px solid blue;
+font-size: 1.2rem;
+border-radius: 10px;
+
+}
+.box1{
+    min-height: 50px;
+    background-color: rgb(255, 190, 239);
+    border: 1px solid rgb(37, 25, 37);
+    font-size: 1.2rem;
+    
+    
+    }

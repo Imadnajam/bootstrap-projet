@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to right,teal,rgb(153, 0, 255));
+}
+.container {
+    margin-top:10% ;
+}
+h1{
+    text-decoration: underline white;
+    color: white;
+    margin-left: 10ch;
+    
+}
+h1:hover{
+    color: rgb(96, 248, 96);
+    text-decoration: underline rgb(96, 248, 96);
+}
